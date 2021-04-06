@@ -1,10 +1,7 @@
-### Hi there 👋 My name is Sanika, and I'm currently an undergraduate student at Rutgers University studying Computer Science.
+### Hello there 👋 My name is Sanika, and I'm currently an undergraduate student at Rutgers University studying Computer Science.
 
 
-- 🔭 I am exploring different fields in technology.
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: ...
+- 😄  Pronouns: she/her/hers
+- 🔭  I am exploring different fields in technology such as **software engineering, product management, data science, and security.**
+- 💭  Other interests: reading, creative writing, indie films, plant-based cooking, bookstores and more.
 
