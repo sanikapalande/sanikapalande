@@ -2,5 +2,5 @@
 
 - 😄  Pronouns: she/her/hers
 - 👩🏽‍💻 I am exploring different fields in technology such as **software engineering, product management, data science, and security.**
-- 💭  Other interests: reading, creative writing, indie films, plant-based cooking, art museums and more.
+- 💭  Other interests: reading, creative writing, biking, plant-based cooking, art museums and more.
 
