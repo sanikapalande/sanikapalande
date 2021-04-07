@@ -2,5 +2,6 @@
 
 - 👩🏽‍💻 I am exploring different fields in technology such as **software engineering, product management, data science, and security.**
 - 📚 I am currently learning full-stack web development.
-- 💭  Other interests: reading, creative writing, biking, plant-based cooking, art museums and more.
+- 💭 INFJ, 5w4
+- 🌻 Other interests: reading, creative writing, biking, plant-based cooking, art museums and more.
 
