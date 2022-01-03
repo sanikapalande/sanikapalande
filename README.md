@@ -3,5 +3,5 @@
 - 👩🏽‍💻 I am exploring different fields in technology such as **software engineering, product management, data science, and security.**
 - 📚 I am currently learning web development.
 - 💭 INFJ, 5w4
-- 🌻 Other interests: completing my GoodReads challenege, creative writing, biking, plant-based cooking, art museums & indie bookstores.
+- 🌻 Other interests: completing my GoodReads challenge, creative writing, biking, plant-based cooking, art museums & indie bookstores.
 
